@@ -1,0 +1,14 @@
+java
+=========
+public class calculator {
+	public static void main(strings[] args){
+	int a=10,b=20;
+	int c=a+b;
+	system.ot.println("The sum is:"+c)
+	}
+}
+
+python
+==
+a=10,b=2=,c=a+b;
+print(c);
