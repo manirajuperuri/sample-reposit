@@ -1,0 +1,33 @@
+python
+-------------------------
+print ("HELLO WORLD");
+
+java
+------------------------
+
+public class HelloWorld{
+	publict static void main(string[] args){
+	System.out.println("Hello World");
+	}
+}
+
+
+c
+--------------
+#include<stdio.h>
+int main(){
+	printf("Hello World");
+
+return 0;
+}
+
+
+c++
+-------------------------
+
+#include<iostream>
+using namespace std;
+int main(){
+	cout<<Hello World>>;
+	return0;
+}
